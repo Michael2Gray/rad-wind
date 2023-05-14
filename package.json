@@ -1,0 +1,41 @@
+{
+  "name": "rad-wind",
+  "description": "RadWind is an accessible primitive UI library",
+  "version": "0.0.0-dev",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "dependencies": {},
+  "devDependencies": {
+    "postcss": "^8.4.23",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "build": "tsup",
+    "test": "test",
+    "dev": "tsup --watch src"
+  },
+  "files": [
+    "/dist",
+    "/src"
+  ],
+  "keywords": [
+    "react",
+    "typescript",
+    "accessibility",
+    "internationalization",
+    "storybook",
+    "tailwindcss",
+    "radix-ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael2Gray/rad-wind.git"
+  },
+  "author": "Michael Gray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Michael2Gray/rad-wind/issues"
+  },
+  "homepage": "https://github.com/Michael2Gray/rad-wind#readme"
+}
