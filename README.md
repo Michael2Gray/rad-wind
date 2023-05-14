@@ -1,2 +1,2 @@
-# rail-wind
-RailWind is an accessible primitive UI library
+# RadWind
+RadWind is an accessible primitive UI library
